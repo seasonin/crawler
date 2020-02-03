@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "爬取网站图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seasonin/crawler.git"
+  },
+  "author": "YangGuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seasonin/crawler/issues"
+  },
+  "homepage": "https://github.com/seasonin/crawler#readme"
+}
